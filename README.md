@@ -1,5 +1,5 @@
 # SanDiegoCourseFrontEnd
-Assignment
+# Assignment Descripition:
 Create a profile page like this example https://codesandbox.io/s/building-a-pesonal-website-week1-e7wr6 (Links to an external site.)
 
 
